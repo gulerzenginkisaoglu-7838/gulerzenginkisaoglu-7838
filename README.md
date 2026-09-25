@@ -1,4 +1,4 @@
-# Merhaba, ich bin Güler 👋
+# Hello, ich bin Güler 👋
 
 **Angehende Fachinformatikerin für Systemintegration (FiSi)** | Umschulung bei GFN, Baden-Württemberg
 🎯 IHK-Abschluss (AP1: Februar 2027 · AP2: Anfang 2028)
