@@ -38,6 +38,7 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 | [proxmox-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-homelab) | Proxmox-VE-Lab auf Hyper-V: LXC, NAT-Netz, Snapshots, Backup/Restore, Templates & Klone (dokumentiert) |
 | [lf10b-serverdienste-lab](https://github.com/gulerzenginkisaoglu-7838/lf10b-serverdienste-lab) | Komplettes Server-Lab: Router mit NAT, Proxmox, TrueNAS/iSCSI, DHCP (Kea), DNS (bind9), Apache, Nextcloud (HTTPS), Docker, Reverse Proxy, Mailserver, automatisiertes Backup |
 | [linux-automation-labs](https://github.com/gulerzenginkisaoglu-7838/linux-automation-labs) | Fehlersuche bei Diensten, Bash-Automatisierung, cron, Backup mit tar/rsync und Prüfsummen |
+| [linux-praxis-labs](https://github.com/gulerzenginkisaoglu-7838/linux-praxis-labs) | Linux-Praxis auf Debian 13: Befehlsübersichten, Spickzettel und Beispielskripte (Bash, Backup, Fehlersuche) |
 | [linux-administration](https://github.com/gulerzenginkisaoglu-7838/linux-administration) | Praxisübungen: SSH, systemctl, Apache, MariaDB, Nextcloud, Bash-Skripte und Regex |
 | [python-uebungen](https://github.com/gulerzenginkisaoglu-7838/python-uebungen) | Python-Grundlagen und Übungsaufgaben |
 | [lf08-datenverarbeitung](https://github.com/gulerzenginkisaoglu-7838/lf08-datenverarbeitung) | Datenverarbeitung mit Python (JSON, XML, OOP) |
