@@ -35,27 +35,26 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 
 | Repository | Beschreibung |
 |---|---|
-| [proxmox-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-homelab) | Proxmox-VE-Lab auf Hyper-V: LXC, NAT-Netz, Snapshots, Backup/Restore, Templates & Klone (dokumentiert) |
-| [lf10b-serverdienste-lab](https://github.com/gulerzenginkisaoglu-7838/lf10b-serverdienste-lab) | Komplettes Server-Lab: Router mit NAT, Proxmox, TrueNAS/iSCSI, DHCP (Kea), DNS (bind9), Apache, Nextcloud (HTTPS), Docker, Reverse Proxy, Mailserver, automatisiertes Backup |
-| [linux-automation-labs](https://github.com/gulerzenginkisaoglu-7838/linux-automation-labs) | Fehlersuche bei Diensten, Bash-Automatisierung, cron, Backup mit tar/rsync und Prüfsummen |
-| [linux-praxis-labs](https://github.com/gulerzenginkisaoglu-7838/linux-praxis-labs) | Linux-Praxis auf Debian 13: Befehlsübersichten, Spickzettel und Beispielskripte (Bash, Backup, Fehlersuche) |
-| [linux-administration](https://github.com/gulerzenginkisaoglu-7838/linux-administration) | Praxisübungen: SSH, systemctl, Apache, MariaDB, Nextcloud, Bash-Skripte und Regex |
-| [python-uebungen](https://github.com/gulerzenginkisaoglu-7838/python-uebungen) | Python-Grundlagen und Übungsaufgaben |
-| [lf08-datenverarbeitung](https://github.com/gulerzenginkisaoglu-7838/lf08-datenverarbeitung) | Datenverarbeitung mit Python (JSON, XML, OOP) |
-| [java-oop-uebungen](https://github.com/gulerzenginkisaoglu-7838/java-oop-uebungen) | Objektorientierte Programmierung in Java |
-| [sql-datenbank-projekte](https://github.com/gulerzenginkisaoglu-7838/sql-datenbank-projekte) | SQL-Übungen und Datenbank-Dateien |
-| [web-projekte](https://github.com/gulerzenginkisaoglu-7838/web-projekte) | HTML/CSS-Webseitenprojekte |
-| [web-uebungen](https://github.com/gulerzenginkisaoglu-7838/web-uebungen) | Interaktive HTML/JS-Lernmaterialien und ein React-Tool |
-| [arduino-cps](https://github.com/gulerzenginkisaoglu-7838/arduino-cps) | Arduino / Cyber-physische Systeme |
-| [drawio-diagramme](https://github.com/gulerzenginkisaoglu-7838/drawio-diagramme) | UML- und ER-Diagramme |
-| [structorizer-diagramme](https://github.com/gulerzenginkisaoglu-7838/structorizer-diagramme) | Struktogramme |
+| [proxmox-virtualization-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-virtualization-homelab) | Proxmox-VE-Lab auf Hyper-V: LXC, NAT-Netz, Snapshots, Backup/Restore, Templates & Klone (dokumentiert) |
+| [server-services-lab](https://github.com/gulerzenginkisaoglu-7838/server-services-lab) | Komplettes Server-Lab: Router mit NAT, Proxmox, TrueNAS/iSCSI, DHCP (Kea), DNS (bind9), Apache, Nextcloud (HTTPS), Docker, Reverse Proxy, Mailserver, automatisiertes Backup |
+| [linux-automation-and-troubleshooting](https://github.com/gulerzenginkisaoglu-7838/linux-automation-and-troubleshooting) | Fehlersuche bei Diensten, Bash-Automatisierung, cron, Backup mit tar/rsync und Prüfsummen |
+| [linux-command-line-reference](https://github.com/gulerzenginkisaoglu-7838/linux-command-line-reference) | Linux-Praxis auf Debian 13: Befehlsübersichten, Spickzettel und Beispielskripte (Bash, Backup, Fehlersuche) |
+| [linux-server-administration](https://github.com/gulerzenginkisaoglu-7838/linux-server-administration) | Praxisübungen: SSH, systemctl, Apache, MariaDB, Nextcloud, Bash-Skripte und Regex |
+| [python-exercises](https://github.com/gulerzenginkisaoglu-7838/python-exercises) | Python-Grundlagen und Übungsaufgaben |
+| [python-data-processing](https://github.com/gulerzenginkisaoglu-7838/python-data-processing) | Datenverarbeitung mit Python (JSON, XML, OOP) |
+| [java-oop-exercises](https://github.com/gulerzenginkisaoglu-7838/java-oop-exercises) | Objektorientierte Programmierung in Java |
+| [web-development-projects](https://github.com/gulerzenginkisaoglu-7838/web-development-projects) | HTML/CSS-Webseitenprojekte |
+| [web-frontend-exercises](https://github.com/gulerzenginkisaoglu-7838/web-frontend-exercises) | Interaktive HTML/JS-Lernmaterialien und ein React-Tool |
+| [arduino-cyber-physical-systems](https://github.com/gulerzenginkisaoglu-7838/arduino-cyber-physical-systems) | Arduino / Cyber-physische Systeme |
+| [uml-and-er-diagrams](https://github.com/gulerzenginkisaoglu-7838/uml-and-er-diagrams) | UML- und ER-Diagramme |
+| [structogram-diagrams](https://github.com/gulerzenginkisaoglu-7838/structogram-diagrams) | Struktogramme |
 
 ---
 
 ### 📫 Kontakt
 
 - LinkedIn: [guler-zengin-kisaoglu](https://www.linkedin.com/in/guler-zengin-kisaoglu)
-- GFN: gulerzengin7@gmail.com
+- E-Mail: gulerzengin7@gmail.com
 
 ---
 
