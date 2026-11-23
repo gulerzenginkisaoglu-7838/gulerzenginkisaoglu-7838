@@ -54,6 +54,7 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 |---|---|
 | [python-grundlagen](https://github.com/gulerzenginkisaoglu-7838/python-grundlagen) | Kontrollstrukturen, Dateiverarbeitung, JSON und SQLite |
 | [python-datenverarbeitung](https://github.com/gulerzenginkisaoglu-7838/python-datenverarbeitung) | JSON- und XML-Verarbeitung, objektorientierte Modellierung |
+| [sql-datenbanken](https://github.com/gulerzenginkisaoglu-7838/sql-datenbanken) | SQL-Abfragen, Schemas und Lernguides zu Aggregatfunktionen, Fahrt und Grandhotel |
 | [java-oop-projekte](https://github.com/gulerzenginkisaoglu-7838/java-oop-projekte) | Objektorientierte Programmierung in Java: Interfaces, Vererbung, Polymorphie |
 | [webentwicklung-projekte](https://github.com/gulerzenginkisaoglu-7838/webentwicklung-projekte) | HTML, CSS, JavaScript mit Backends in Flask und PHP |
 | [web-lerntools](https://github.com/gulerzenginkisaoglu-7838/web-lerntools) | Interaktive Netzwerk-Quizze in HTML, JavaScript und React |
