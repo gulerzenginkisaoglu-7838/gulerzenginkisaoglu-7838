@@ -58,13 +58,12 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 | [webentwicklung-projekte](https://github.com/gulerzenginkisaoglu-7838/webentwicklung-projekte) | HTML, CSS, JavaScript mit Backends in Flask und PHP |
 | [web-lerntools](https://github.com/gulerzenginkisaoglu-7838/web-lerntools) | Interaktive Netzwerk-Quizze in HTML, JavaScript und React |
 
-**Modellierung und Embedded**
+**Modellierung**
 
 | Repository | Beschreibung |
 |---|---|
 | [uml-und-er-diagramme](https://github.com/gulerzenginkisaoglu-7838/uml-und-er-diagramme) | UML- und ER-Diagramme mit draw.io |
 | [struktogramme](https://github.com/gulerzenginkisaoglu-7838/struktogramme) | Struktogramme und Programmablaufpläne mit Structorizer |
-| [arduino-cyberphysische-systeme](https://github.com/gulerzenginkisaoglu-7838/arduino-cyberphysische-systeme) | Arduino-Experimente mit Sensoren, Aktoren und Schaltungen |
 
 ---
 
