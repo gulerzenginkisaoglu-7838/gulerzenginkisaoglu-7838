@@ -31,23 +31,40 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 
 ---
 
-### 📁 Projekte aus der Umschulung
+### 📁 Projekte
+
+**Server und Virtualisierung**
 
 | Repository | Beschreibung |
 |---|---|
-| [proxmox-virtualisierung-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-virtualisierung-homelab) | Proxmox-VE-Lab auf Hyper-V: LXC, NAT-Netz, Snapshots, Backup/Restore, Templates & Klone (dokumentiert) |
-| [serverdienste-lab](https://github.com/gulerzenginkisaoglu-7838/serverdienste-lab) | Komplettes Server-Lab: Router mit NAT, Proxmox, TrueNAS/iSCSI, DHCP (Kea), DNS (bind9), Apache, Nextcloud (HTTPS), Docker, Reverse Proxy, Mailserver, automatisiertes Backup |
-| [linux-automatisierung-und-fehlersuche](https://github.com/gulerzenginkisaoglu-7838/linux-automatisierung-und-fehlersuche) | Fehlersuche bei Diensten, Bash-Automatisierung, cron, Backup mit tar/rsync und Prüfsummen |
-| [linux-kommandozeile-referenz](https://github.com/gulerzenginkisaoglu-7838/linux-kommandozeile-referenz) | Linux-Praxis auf Debian 13: Befehlsübersichten, Spickzettel und Beispielskripte (Bash, Backup, Fehlersuche) |
-| [linux-serveradministration](https://github.com/gulerzenginkisaoglu-7838/linux-serveradministration) | Praxisübungen: SSH, systemctl, Apache, MariaDB, Nextcloud, Bash-Skripte und Regex |
-| [python-uebungen](https://github.com/gulerzenginkisaoglu-7838/python-uebungen) | Python-Grundlagen und Übungsaufgaben |
-| [python-datenverarbeitung](https://github.com/gulerzenginkisaoglu-7838/python-datenverarbeitung) | Datenverarbeitung mit Python (JSON, XML, OOP) |
-| [java-oop-uebungen](https://github.com/gulerzenginkisaoglu-7838/java-oop-uebungen) | Objektorientierte Programmierung in Java |
-| [webentwicklung-projekte](https://github.com/gulerzenginkisaoglu-7838/webentwicklung-projekte) | HTML/CSS-Webseitenprojekte |
-| [web-frontend-uebungen](https://github.com/gulerzenginkisaoglu-7838/web-frontend-uebungen) | Interaktive HTML/JS-Lernmaterialien und ein React-Tool |
-| [arduino-cyberphysische-systeme](https://github.com/gulerzenginkisaoglu-7838/arduino-cyberphysische-systeme) | Arduino / Cyber-physische Systeme |
-| [uml-und-er-diagramme](https://github.com/gulerzenginkisaoglu-7838/uml-und-er-diagramme) | UML- und ER-Diagramme |
-| [struktogramme](https://github.com/gulerzenginkisaoglu-7838/struktogramme) | Struktogramme |
+| [serverdienste-lab](https://github.com/gulerzenginkisaoglu-7838/serverdienste-lab) | Serverlandschaft im Homelab: Router mit NAT, Proxmox, TrueNAS/iSCSI, DHCP (Kea), DNS (bind9), Apache, Nextcloud (HTTPS), Docker, Reverse Proxy, Mailserver und automatisiertes Backup |
+| [proxmox-virtualisierung-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-virtualisierung-homelab) | Proxmox VE auf Hyper-V: LXC-Container, NAT-Netzwerk, Snapshots, Backup und Restore, Templates und Klone |
+
+**Linux**
+
+| Repository | Beschreibung |
+|---|---|
+| [linux-serveradministration](https://github.com/gulerzenginkisaoglu-7838/linux-serveradministration) | Debian 13: SSH, systemd, Apache, MariaDB, Nextcloud, Bash-Skripte und reguläre Ausdrücke |
+| [linux-automatisierung-und-fehlersuche](https://github.com/gulerzenginkisaoglu-7838/linux-automatisierung-und-fehlersuche) | Fehlersuche bei Diensten, Bash-Automatisierung, cron, Backup mit tar und rsync, Prüfsummen |
+| [linux-kommandozeile-referenz](https://github.com/gulerzenginkisaoglu-7838/linux-kommandozeile-referenz) | Befehlsübersichten, Spickzettel und Beispielskripte für Debian |
+
+**Programmierung und Web**
+
+| Repository | Beschreibung |
+|---|---|
+| [python-grundlagen](https://github.com/gulerzenginkisaoglu-7838/python-grundlagen) | Kontrollstrukturen, Dateiverarbeitung, JSON und SQLite |
+| [python-datenverarbeitung](https://github.com/gulerzenginkisaoglu-7838/python-datenverarbeitung) | JSON- und XML-Verarbeitung, objektorientierte Modellierung |
+| [java-oop-projekte](https://github.com/gulerzenginkisaoglu-7838/java-oop-projekte) | Objektorientierte Programmierung in Java: Interfaces, Vererbung, Polymorphie |
+| [webentwicklung-projekte](https://github.com/gulerzenginkisaoglu-7838/webentwicklung-projekte) | HTML, CSS, JavaScript mit Backends in Flask und PHP |
+| [web-lerntools](https://github.com/gulerzenginkisaoglu-7838/web-lerntools) | Interaktive Quizze und Lernkarten in HTML, JavaScript und React |
+
+**Modellierung und Embedded**
+
+| Repository | Beschreibung |
+|---|---|
+| [uml-und-er-diagramme](https://github.com/gulerzenginkisaoglu-7838/uml-und-er-diagramme) | UML- und ER-Diagramme mit draw.io |
+| [struktogramme](https://github.com/gulerzenginkisaoglu-7838/struktogramme) | Struktogramme und Programmablaufpläne mit Structorizer |
+| [arduino-cyberphysische-systeme](https://github.com/gulerzenginkisaoglu-7838/arduino-cyberphysische-systeme) | Arduino-Experimente mit Sensoren, Aktoren und Schaltungen |
 
 ---
 
