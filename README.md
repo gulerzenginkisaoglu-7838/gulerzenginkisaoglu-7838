@@ -54,7 +54,7 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 ### 📫 Kontakt
 
 - LinkedIn: [guler-zengin-kisaoglu](https://www.linkedin.com/in/guler-zengin-kisaoglu)
-- GFN: gueler.zenginkisaoglu@gfn.education
+- GFN: gulerzengin7@gmail.com
 
 ---
 
