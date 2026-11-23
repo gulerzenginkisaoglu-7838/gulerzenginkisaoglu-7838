@@ -1,8 +1,8 @@
 # Hello, ich bin Güler 👋
 
-**Angehende Fachinformatikerin für Systemintegration (FiSi)** | Umschulung bei GFN, Baden-Württemberg
-🎯 IHK-Abschluss (AP1: Februar 2027 · AP2: Anfang 2028)
-🔎 Ich suche ein 9-monatiges Pflichtpraktikum ab Mai 2027 im Raum Stuttgart.
+**Fachinformatikerin Systemintegration (IHK) in Umschulung** | GFN GmbH, Baden-Württemberg
+🎯 IHK-Abschluss (AP1: Februar 2027 · AP2: Dezember 2027)
+🔎 Ich suche ein 9-monatiges Pflichtpraktikum ab Mai 2027 im Raum Baden-Württemberg.
 
 Ich dokumentiere hier meinen Lernweg durch die FiSi-Umschulung — von Netzwerktechnik über
 Datenbanken bis hin zu Programmierung und Linux-Administration.
@@ -75,4 +75,4 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 
 ---
 
-<sub>Dieses Profil begleitet meine FiSi-Umschulung 2025–2028 — wird laufend aktualisiert.</sub>
+<sub>Dieses Profil begleitet meine FiSi-Umschulung (2026–2027) — wird laufend aktualisiert.</sub>
