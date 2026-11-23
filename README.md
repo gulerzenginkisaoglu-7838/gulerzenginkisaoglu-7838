@@ -56,7 +56,7 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 | [python-datenverarbeitung](https://github.com/gulerzenginkisaoglu-7838/python-datenverarbeitung) | JSON- und XML-Verarbeitung, objektorientierte Modellierung |
 | [java-oop-projekte](https://github.com/gulerzenginkisaoglu-7838/java-oop-projekte) | Objektorientierte Programmierung in Java: Interfaces, Vererbung, Polymorphie |
 | [webentwicklung-projekte](https://github.com/gulerzenginkisaoglu-7838/webentwicklung-projekte) | HTML, CSS, JavaScript mit Backends in Flask und PHP |
-| [web-lerntools](https://github.com/gulerzenginkisaoglu-7838/web-lerntools) | Interaktive Quizze und Lernkarten in HTML, JavaScript und React |
+| [web-lerntools](https://github.com/gulerzenginkisaoglu-7838/web-lerntools) | Interaktive Netzwerk-Quizze in HTML, JavaScript und React |
 
 **Modellierung und Embedded**
 
