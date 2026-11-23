@@ -2,6 +2,7 @@
 
 **Angehende Fachinformatikerin für Systemintegration (FiSi)** | Umschulung bei GFN, Baden-Württemberg
 🎯 IHK-Abschluss (AP1: Februar 2027 · AP2: Anfang 2028)
+🔎 Ich suche ein 9-monatiges Pflichtpraktikum ab Mai 2027 im Raum Stuttgart.
 
 Ich dokumentiere hier meinen Lernweg durch die FiSi-Umschulung — von Netzwerktechnik über
 Datenbanken bis hin zu Programmierung und Linux-Administration.
@@ -11,11 +12,22 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 ### 🧰 Aktuelle Schwerpunkte
 
 - **Netzwerktechnik:** Active Directory, DHCP/DNS, Windows Server, Cisco Packet Tracer
+- **Virtualisierung:** Proxmox VE, Hyper-V, LXC, Backup & Restore
+- **Linux-Administration:** SSH, systemctl, Apache, MariaDB, Nextcloud
 - **Programmierung:** Python, Java (OOP)
 - **Datenbanken:** SQL
-- **Linux-Administration:** SSH, systemctl, Apache, MariaDB, Nextcloud
 - **Web:** HTML, CSS, JavaScript, erste React-Projekte
 - **Dokumentation & Modellierung:** UML/ER-Diagramme (draw.io), Struktogramme (Structorizer)
+
+---
+
+### 🎓 Zertifikate
+
+- CCNA: Introduction to Networks (Kurs 1 von 3) – Cisco Networking Academy, Nov. 2026
+- LPI Linux Essentials (010-160) – Linux Professional Institute, Nov. 2026
+- KI-Führerschein (3 Module) – GFN, Nov. 2026
+- Deutsch-Test für den Beruf C1 – telc, Juli 2025
+- Data Science / Analytics – euroTech Study, Juli 2024
 
 ---
 
@@ -23,6 +35,7 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 
 | Repository | Beschreibung |
 |---|---|
+| [proxmox-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-homelab) | Proxmox-VE-Lab auf Hyper-V: LXC, NAT-Netz, Snapshots, Backup/Restore, Templates & Klone (dokumentiert) |
 | [linux-administration](https://github.com/gulerzenginkisaoglu-7838/linux-administration) | Praxisübungen: SSH, systemctl, Apache, MariaDB, Nextcloud |
 | [python-uebungen](https://github.com/gulerzenginkisaoglu-7838/python-uebungen) | Python-Grundlagen und Übungsaufgaben |
 | [lf08-datenverarbeitung](https://github.com/gulerzenginkisaoglu-7838/lf08-datenverarbeitung) | Datenverarbeitung mit Python (JSON, XML, OOP) |
@@ -38,6 +51,7 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 
 ### 📫 Kontakt
 
+- LinkedIn: [guler-zengin-kisaoglu](https://www.linkedin.com/in/guler-zengin-kisaoglu)
 - GFN: gueler.zenginkisaoglu@gfn.education
 
 ---
