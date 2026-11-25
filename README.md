@@ -44,7 +44,6 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 
 | Repository | Beschreibung |
 |---|---|
-| [linux-serveradministration](https://github.com/gulerzenginkisaoglu-7838/linux-serveradministration) | Debian 13: SSH, systemd, Apache, MariaDB, Nextcloud, Bash-Skripte und reguläre Ausdrücke |
 | [linux-automatisierung-und-fehlersuche](https://github.com/gulerzenginkisaoglu-7838/linux-automatisierung-und-fehlersuche) | Fehlersuche bei Diensten, Bash-Automatisierung, cron, Backup mit tar und rsync, Prüfsummen |
 | [linux-kommandozeile-referenz](https://github.com/gulerzenginkisaoglu-7838/linux-kommandozeile-referenz) | Befehlsübersichten, Spickzettel und Beispielskripte für Debian |
 
@@ -54,15 +53,12 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 |---|---|
 | [python-grundlagen](https://github.com/gulerzenginkisaoglu-7838/python-grundlagen) | Kontrollstrukturen, Dateiverarbeitung, JSON und SQLite |
 | [python-datenverarbeitung](https://github.com/gulerzenginkisaoglu-7838/python-datenverarbeitung) | JSON- und XML-Verarbeitung, objektorientierte Modellierung |
-| [java-oop-projekte](https://github.com/gulerzenginkisaoglu-7838/java-oop-projekte) | Objektorientierte Programmierung in Java: Interfaces, Vererbung, Polymorphie |
-| [webentwicklung-projekte](https://github.com/gulerzenginkisaoglu-7838/webentwicklung-projekte) | HTML, CSS, JavaScript mit Backends in Flask und PHP |
 | [web-lerntools](https://github.com/gulerzenginkisaoglu-7838/web-lerntools) | Interaktive Netzwerk-Quizze in HTML, JavaScript und React |
 
 **Modellierung**
 
 | Repository | Beschreibung |
 |---|---|
-| [uml-und-er-diagramme](https://github.com/gulerzenginkisaoglu-7838/uml-und-er-diagramme) | UML- und ER-Diagramme mit draw.io |
 | [struktogramme](https://github.com/gulerzenginkisaoglu-7838/struktogramme) | Struktogramme und Programmablaufpläne mit Structorizer |
 
 ---
