@@ -44,6 +44,7 @@ Datenbanken bis hin zu Programmierung und Linux-Administration.
 
 | Repository | Beschreibung |
 |---|---|
+| [linux-serveradministration](https://github.com/gulerzenginkisaoglu-7838/linux-serveradministration) | Debian 13: SSH, systemd, Apache, MariaDB, Nextcloud, Bash-Skripte und reguläre Ausdrücke |
 | [linux-automatisierung-und-fehlersuche](https://github.com/gulerzenginkisaoglu-7838/linux-automatisierung-und-fehlersuche) | Fehlersuche bei Diensten, Bash-Automatisierung, cron, Backup mit tar und rsync, Prüfsummen |
 | [linux-kommandozeile-referenz](https://github.com/gulerzenginkisaoglu-7838/linux-kommandozeile-referenz) | Befehlsübersichten, Spickzettel und Beispielskripte für Debian |
 
